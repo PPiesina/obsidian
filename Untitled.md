@@ -1,6 +1,4 @@
+```gEventtype: monthoffset: 0include: ["Personal"]```
 
-```
-<%*
-const {createEvent} = this.app.plugins.plugins["google-calendar"].api;
-await createEvent({ summary: "Test event", start: { date: window.moment() }, end: { date: window.moment() }});%>
-```
+```gEventtype: weekdate: ;window.moment().startOf("week");navigation: true```
+
