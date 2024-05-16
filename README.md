@@ -4,3 +4,4 @@
 - [configs](./configs)
 - [saskaitos](./saskaitos/list.html)
 - [notes](./notes/notes.md)
+Hello from phone
