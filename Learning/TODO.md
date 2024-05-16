@@ -15,6 +15,11 @@
 	 - [ ] write documentation header plugin
  - [ ] read VsCode documentation
 
+#### Courses:
+
+- [ ] Platform 1
+- [ ] Blazingly fast JS course (frontend masters)
+
 #### Books:
 
 - [ ] advanced apex programming
