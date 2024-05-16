@@ -1,0 +1,4 @@
+- [x] fill trigger testing instructions
+- [x] test reordering
+- [ ] full partial testing
+- [ ] 
