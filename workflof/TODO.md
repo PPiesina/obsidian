@@ -7,7 +7,6 @@
  - [ ] sync with google calendar
  - [ ] sync with google todo 
  - [ ] drawing/ sketching
- testing git
  - [x] copy button in code blocks
 
 #### VsCode:
