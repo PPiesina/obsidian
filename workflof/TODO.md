@@ -2,8 +2,8 @@
 
  - [ ] move notes to obsidian (except passwords)
  - [ ] dataview plugin (mini database in notes)
- - [ ] sync with github
- - [ ] sync with mobile
+ - [x] sync with github
+ - [x] sync with mobile
  - [ ] sync with google calendar
  - [ ] sync with google todo 
  - [ ] drawing/ sketching
