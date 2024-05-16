@@ -7,9 +7,6 @@
  - [ ] sync with google calendar
  - [ ] sync with google todo 
  - [ ] drawing/ sketching
- - [x] copy button in code blocks
- - [x] testing sync mobile 2
- - [x] 
 
 #### VsCode:
 
