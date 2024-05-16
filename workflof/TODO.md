@@ -8,8 +8,8 @@
  - [ ] sync with google todo 
  - [ ] drawing/ sketching
  - [x] copy button in code blocks
- - [ ] testing sync mobile 2
- - [ ] 
+ - [x] testing sync mobile 2
+ - [x] 
 
 #### VsCode:
 
