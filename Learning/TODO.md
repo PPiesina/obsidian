@@ -14,3 +14,8 @@
  - [ ] learn how to write plugins
 	 - [ ] write documentation header plugin
  - [ ] read VsCode documentation
+
+#### Books:
+
+- [ ] advanced apex programming
+- [ ] 
