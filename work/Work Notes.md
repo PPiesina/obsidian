@@ -1,6 +1,7 @@
 - [x] fill trigger testing instructions
 - [x] test reordering
 - [x] full partial testing
+- [ ] deploy
 - [ ] create/update  tasks 
 - [ ] test out HERE restrictions
 - [ ] planner refactoring
