@@ -1,9 +1,9 @@
 - [x] fill trigger testing instructions
 - [x] test reordering
-- [ ] full partial testing
+- [x] full partial testing
+- [ ] 
 - [ ] test out HERE restrictions
 - [ ] planner refactoring
 - [ ] apex/lwc documentation plugin
 	- [ ] documentation generation to html
 - [ ] move test cases to sid
-- [ ] 
