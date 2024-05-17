@@ -2,6 +2,7 @@
 - [x] test reordering
 - [x] full partial testing
 - [x] deploy
+- [ ] ==neveikia shift selection kai filtrai įjungti==
 - [ ] create/update  tasks 
 	- [ ] send mobile task to Vytenis
 - [ ] test out HERE restrictions
