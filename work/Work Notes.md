@@ -5,6 +5,7 @@
 - [ ] taskeliai
 	- [ ] ==neveikia shift selection kai filtrai įjungti==
 	- [ ] dar vienas update dėl left to drive skaičiavimo
+	- [ ] Pasitarti su Vyteniu dėl šito test case (does task files show up on messages cmp)
 	- [ ] 
 - [ ] 
 - [ ] create/update  tasks 
