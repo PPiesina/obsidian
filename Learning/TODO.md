@@ -23,4 +23,6 @@
 #### Books:
 
 - [ ] advanced apex programming
-- [ ] 
+- [ ] clean code
+- [ ] clean architecture
+- [ ] Reikia kažkokio resurso komponentų architektūrai (nebent clean architecture pakaktų)
