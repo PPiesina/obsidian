@@ -1,8 +1,9 @@
 - [x] fill trigger testing instructions
 - [x] test reordering
 - [x] full partial testing
-- [ ] deploy
+- [x] deploy
 - [ ] create/update  tasks 
+	- [ ] send mobile task t
 - [ ] test out HERE restrictions
 - [ ] planner refactoring
 - [ ] apex/lwc documentation plugin
