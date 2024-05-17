@@ -7,6 +7,7 @@ Unlocked Package research - Google Docs
 	DC_Paulius
 	Testas123
 - [ ] create scratch org
+- [ ] ==dx at scale research==
 - [ ] add custom object and fields
 - [ ] lwc component with controller
 - [ ] add class with static public method

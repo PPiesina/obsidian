@@ -3,8 +3,7 @@
 	- [ ] vscode plugin for creating doc headers
 	- [ ] use jsdoc/javadoc cli tools to generate htmls
 	- [ ] add html generation to pipeline after merging
-- [ ] [Unlocked Packages](/UP/UP)
-	- [ ] dx at scale research
+- [ ] [[Unlocked Packages]]
 - [ ] console refactoring ideas
 	- [ ] ts check for components
 	- [ ] enterprise layer in apex
