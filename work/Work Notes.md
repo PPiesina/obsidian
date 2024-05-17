@@ -4,6 +4,7 @@
 - [x] deploy
 - [ ] taskeliai
 	- [ ] ==neveikia shift selection kai filtrai įjungti==
+	- [ ] dar vienas update dėl left to drive skaičiavimo
 	- [ ] 
 - [ ] 
 - [ ] create/update  tasks 
