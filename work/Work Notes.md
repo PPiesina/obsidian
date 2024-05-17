@@ -3,7 +3,7 @@
 - [x] full partial testing
 - [x] deploy
 - [ ] create/update  tasks 
-	- [ ] send mobile task t
+	- [ ] send mobile task to Vytenis
 - [ ] test out HERE restrictions
 - [ ] planner refactoring
 - [ ] apex/lwc documentation plugin
