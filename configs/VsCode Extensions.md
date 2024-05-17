@@ -1,37 +1,34 @@
-``` Shell
-code --install-extension andenetalexander.vim-cheatsheet
-code --install-extension asvetliakov.vscode-neovim
-code --install-extension atlassian.atlascode
-code --install-extension chuckjonas.apex-pmd
-code --install-extension dbaeumer.vscode-eslint
-code --install-extension eamodio.gitlens
-code --install-extension esbenp.prettier-vscode
-code --install-extension financialforce.lana
-code --install-extension ginfuru.ginfuru-better-solarized-dark-theme
-code --install-extension hugoom.sfdx-autoheader
-code --install-extension jock.svg
-code --install-extension kevinjones.apex-assist
-code --install-extension ms-vscode-remote.remote-ssh
-code --install-extension ms-vscode-remote.remote-ssh-edit
-code --install-extension ms-vscode.remote-explorer
-code --install-extension narasimapandiyan.jetbrainsmono
-code --install-extension naumovs.color-highlight
-code --install-extension ninoish.lwc-builder
-code --install-extension pkief.material-icon-theme
-code --install-extension redhat.vscode-yaml
-code --install-extension redhat.vscode-xml
-code --install-extension salesforce.salesforce-vscode-slds
-code --install-extension salesforce.salesforcedx-vscode
-code --install-extension salesforce.salesforcedx-vscode-apex
-code --install-extension salesforce.salesforcedx-vscode-apex-debugger
-code --install-extension salesforce.salesforcedx-vscode-apex-replay-debugger
-code --install-extension salesforce.salesforcedx-vscode-core
-code --install-extension salesforce.salesforcedx-vscode-expanded
-code --install-extension salesforce.salesforcedx-vscode-lightning
-code --install-extension salesforce.salesforcedx-vscode-lwc
-code --install-extension salesforce.salesforcedx-vscode-soql
-code --install-extension salesforce.salesforcedx-vscode-visualforce
-code --install-extension shd101wyy.markdown-preview-enhanced
-code --install-extension usernamehw.errorlens
-code --install-extension vignaeshrama.sfdx-package-xml-generator
-```
+andenetalexander.vim-cheatsheet
+asvetliakov.vscode-neovim
+atlassian.atlascode
+chuckjonas.apex-pmd
+dbaeumer.vscode-eslint
+eamodio.gitlens
+esbenp.prettier-vscode
+financialforce.lana
+ginfuru.ginfuru-better-solarized-dark-theme
+hugoom.sfdx-autoheader
+jock.svg
+kevinjones.apex-assist
+ms-vscode-remote.remote-ssh
+ms-vscode-remote.remote-ssh-edit
+ms-vscode.remote-explorer
+narasimapandiyan.jetbrainsmono
+naumovs.color-highlight
+ninoish.lwc-builder
+pkief.material-icon-theme
+redhat.vscode-yaml
+redhat.vscode-xml
+salesforce.salesforce-vscode-slds
+salesforce.salesforcedx-vscode
+salesforce.salesforcedx-vscode-apex
+salesforce.salesforcedx-vscode-apex-debugger
+salesforce.salesforcedx-vscode-apex-replay-debugger
+salesforce.salesforcedx-vscode-core
+salesforce.salesforcedx-vscode-expanded
+salesforce.salesforcedx-vscode-lightning
+salesforce.salesforcedx-vscode-lwc
+salesforce.salesforcedx-vscode-soql
+salesforce.salesforcedx-vscode-visualforce
+usernamehw.errorlens
+vignaeshrama.sfdx-package-xml-generator
