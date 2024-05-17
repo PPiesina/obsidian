@@ -25,6 +25,21 @@ Controller
 
 How to refresh dynamically? ^NY0YRacG
 
+Notes:
+- Creating groups in SF
+- IP restricted public site?
+ ^yDKuEiPO
+
+Sharing logic ^cqo5gQpb
+
+Reuse existing stylesheets as much as posible ^sDDW2hHV
+
+- Truck rows
+- Tacho live data
+- Trip display 
+    without editinf buttons
+    ^Md9e15Rc
+
 %%
 # Drawing
 ```json
@@ -283,8 +298,8 @@ How to refresh dynamically? ^NY0YRacG
 		},
 		{
 			"type": "line",
-			"version": 623,
-			"versionNonce": 1288516990,
+			"version": 1006,
+			"versionNonce": 237768546,
 			"index": "aD",
 			"isDeleted": false,
 			"id": "XAnWQ-rfvEV15hhvOL0ZQ",
@@ -294,8 +309,8 @@ How to refresh dynamically? ^NY0YRacG
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -242.26924392150005,
-			"y": 6.70329513596198,
+			"x": -405.46919509337505,
+			"y": -183.16336339268395,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 203.58619426858837,
@@ -310,7 +325,7 @@ How to refresh dynamically? ^NY0YRacG
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1715937172019,
+			"updated": 1715937382696,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -331,8 +346,8 @@ How to refresh dynamically? ^NY0YRacG
 		},
 		{
 			"type": "line",
-			"version": 695,
-			"versionNonce": 1657132478,
+			"version": 1078,
+			"versionNonce": 1450693410,
 			"index": "aE",
 			"isDeleted": false,
 			"id": "cX9Rm_eP7mk3OFVgFEzc3",
@@ -342,8 +357,8 @@ How to refresh dynamically? ^NY0YRacG
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -63.51063585980825,
-			"y": -21.986353722470113,
+			"x": -226.71058703168325,
+			"y": -211.85301225111604,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 0,
@@ -358,7 +373,7 @@ How to refresh dynamically? ^NY0YRacG
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1715937172019,
+			"updated": 1715937382696,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -379,8 +394,8 @@ How to refresh dynamically? ^NY0YRacG
 		},
 		{
 			"type": "line",
-			"version": 653,
-			"versionNonce": 692088318,
+			"version": 1036,
+			"versionNonce": 1880432354,
 			"index": "aF",
 			"isDeleted": false,
 			"id": "R6INbF9niBqfgYbRqrhnK",
@@ -390,8 +405,8 @@ How to refresh dynamically? ^NY0YRacG
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -29.303714052157375,
-			"y": 203.11709034407085,
+			"x": -192.50366522403237,
+			"y": 13.250431815424918,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 220.137939453125,
@@ -406,7 +421,7 @@ How to refresh dynamically? ^NY0YRacG
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1715937172019,
+			"updated": 1715937382696,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -427,8 +442,8 @@ How to refresh dynamically? ^NY0YRacG
 		},
 		{
 			"type": "line",
-			"version": 657,
-			"versionNonce": 759037502,
+			"version": 1040,
+			"versionNonce": 1200812706,
 			"index": "aG",
 			"isDeleted": false,
 			"id": "YJq4KmU1MS4rYCQ1zOlR9",
@@ -438,8 +453,8 @@ How to refresh dynamically? ^NY0YRacG
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -224.06235157909703,
-			"y": -21.434627479878515,
+			"x": -387.262302750972,
+			"y": -211.30128600852444,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 0,
@@ -454,7 +469,7 @@ How to refresh dynamically? ^NY0YRacG
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1715937172019,
+			"updated": 1715937382696,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -476,8 +491,8 @@ How to refresh dynamically? ^NY0YRacG
 		{
 			"id": "dEFk4Hw6",
 			"type": "text",
-			"x": -196.97458808190305,
-			"y": 45.49897360000534,
+			"x": -360.17453925377805,
+			"y": -144.36768492864059,
 			"width": 112.59988403320312,
 			"height": 125,
 			"angle": 0,
@@ -495,8 +510,8 @@ How to refresh dynamically? ^NY0YRacG
 			"index": "aH",
 			"roundness": null,
 			"seed": 1517851390,
-			"version": 591,
-			"versionNonce": 866092670,
+			"version": 974,
+			"versionNonce": 1604341346,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -504,7 +519,7 @@ How to refresh dynamically? ^NY0YRacG
 					"type": "arrow"
 				}
 			],
-			"updated": 1715937172019,
+			"updated": 1715937382696,
 			"link": null,
 			"locked": false,
 			"text": "Styles\npage.css\nroutical.css\nbase.css\n",
@@ -711,8 +726,8 @@ How to refresh dynamically? ^NY0YRacG
 		},
 		{
 			"type": "text",
-			"version": 412,
-			"versionNonce": 542942754,
+			"version": 413,
+			"versionNonce": 492038654,
 			"index": "aM",
 			"isDeleted": false,
 			"id": "EjpxCmYm",
@@ -742,9 +757,13 @@ How to refresh dynamically? ^NY0YRacG
 				{
 					"id": "KkgVF5hDj8zUTAPX36lWM",
 					"type": "arrow"
+				},
+				{
+					"id": "bm8sXGmgxvZZw6f7OUdaA",
+					"type": "arrow"
 				}
 			],
-			"updated": 1715937150812,
+			"updated": 1715937494275,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -820,10 +839,10 @@ How to refresh dynamically? ^NY0YRacG
 		{
 			"id": "G2umi5AUzprSvjBzd5OEh",
 			"type": "arrow",
-			"x": -83.46071993056316,
-			"y": 45.09322363784421,
-			"width": 243.5117910444794,
-			"height": 143.41568429056525,
+			"x": -246.57465522057493,
+			"y": -101.36022407866854,
+			"width": 406.62572633449116,
+			"height": 2.147368554917904,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -839,11 +858,16 @@ How to refresh dynamically? ^NY0YRacG
 				"type": 2
 			},
 			"seed": 487965538,
-			"version": 203,
-			"versionNonce": 175275774,
+			"version": 975,
+			"versionNonce": 851811810,
 			"isDeleted": false,
-			"boundElements": [],
-			"updated": 1715937172020,
+			"boundElements": [
+				{
+					"type": "text",
+					"id": "sDDW2hHV"
+				}
+			],
+			"updated": 1715937382696,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -852,8 +876,8 @@ How to refresh dynamically? ^NY0YRacG
 					0
 				],
 				[
-					243.5117910444794,
-					-143.41568429056525
+					406.62572633449116,
+					-2.147368554917904
 				]
 			],
 			"lastCommittedPoint": [
@@ -872,6 +896,43 @@ How to refresh dynamically? ^NY0YRacG
 			},
 			"startArrowhead": null,
 			"endArrowhead": "arrow"
+		},
+		{
+			"id": "sDDW2hHV",
+			"type": "text",
+			"x": -229.01497096771735,
+			"y": -126.93964811249431,
+			"width": 262.63970947265625,
+			"height": 50,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"index": "ahV",
+			"roundness": null,
+			"seed": 1305129150,
+			"version": 66,
+			"versionNonce": 2053684770,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1715937382497,
+			"link": null,
+			"locked": false,
+			"text": "Reuse existing stylesheets\nas much as posible",
+			"rawText": "Reuse existing stylesheets as much as posible",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"containerId": "G2umi5AUzprSvjBzd5OEh",
+			"originalText": "Reuse existing stylesheets as much as posible",
+			"lineHeight": 1.25
 		},
 		{
 			"id": "zoGqJiik",
@@ -893,16 +954,20 @@ How to refresh dynamically? ^NY0YRacG
 			"index": "ak",
 			"roundness": null,
 			"seed": 2110478498,
-			"version": 14,
-			"versionNonce": 488623266,
+			"version": 17,
+			"versionNonce": 2080070946,
 			"isDeleted": false,
 			"boundElements": [
 				{
 					"id": "usgtevpf1kC0j_FKW0p-_",
 					"type": "arrow"
+				},
+				{
+					"id": "5mvntMm1e_y8iroOU-OEf",
+					"type": "arrow"
 				}
 			],
-			"updated": 1715937062971,
+			"updated": 1715937267604,
 			"link": null,
 			"locked": false,
 			"text": "Controller\n",
@@ -918,10 +983,10 @@ How to refresh dynamically? ^NY0YRacG
 		{
 			"id": "usgtevpf1kC0j_FKW0p-_",
 			"type": "arrow",
-			"x": 187.53275911988015,
-			"y": -113.52157445649505,
-			"width": 19.485309001374503,
-			"height": 282.5369805199306,
+			"x": 187.25110430400102,
+			"y": -117.60556928674245,
+			"width": 19.203654185495395,
+			"height": 278.45298568968326,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -937,8 +1002,8 @@ How to refresh dynamically? ^NY0YRacG
 				"type": 2
 			},
 			"seed": 860501282,
-			"version": 39,
-			"versionNonce": 842335906,
+			"version": 41,
+			"versionNonce": 1429994658,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -946,7 +1011,7 @@ How to refresh dynamically? ^NY0YRacG
 					"id": "BwZel7LD"
 				}
 			],
-			"updated": 1715937073366,
+			"updated": 1715937267605,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -955,8 +1020,8 @@ How to refresh dynamically? ^NY0YRacG
 					0
 				],
 				[
-					-19.485309001374503,
-					-282.5369805199306
+					-19.203654185495395,
+					-278.45298568968326
 				]
 			],
 			"lastCommittedPoint": [
@@ -1298,6 +1363,427 @@ How to refresh dynamically? ^NY0YRacG
 			"containerId": "KkgVF5hDj8zUTAPX36lWM",
 			"originalText": "How to refresh dynamically?",
 			"lineHeight": 1.25
+		},
+		{
+			"id": "yDKuEiPO",
+			"type": "text",
+			"x": 461.1134021624005,
+			"y": -480.88633600326233,
+			"width": 268.53973388671875,
+			"height": 100,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"index": "at",
+			"roundness": null,
+			"seed": 1245796222,
+			"version": 138,
+			"versionNonce": 788344510,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1715937327636,
+			"link": null,
+			"locked": false,
+			"text": "Notes:\n- Creating groups in SF\n- IP restricted public site?\n",
+			"rawText": "Notes:\n- Creating groups in SF\n- IP restricted public site?\n",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "Notes:\n- Creating groups in SF\n- IP restricted public site?\n",
+			"lineHeight": 1.25
+		},
+		{
+			"id": "cqo5gQpb",
+			"type": "text",
+			"x": -188.2983625434817,
+			"y": -436.33729246006385,
+			"width": 118.49989318847656,
+			"height": 25,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"index": "au",
+			"roundness": null,
+			"seed": 1702956606,
+			"version": 165,
+			"versionNonce": 1735296546,
+			"isDeleted": false,
+			"boundElements": [
+				{
+					"id": "5mvntMm1e_y8iroOU-OEf",
+					"type": "arrow"
+				}
+			],
+			"updated": 1715937284882,
+			"link": null,
+			"locked": false,
+			"text": "Sharing logic",
+			"rawText": "Sharing logic",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "Sharing logic",
+			"lineHeight": 1.25
+		},
+		{
+			"type": "line",
+			"version": 318,
+			"versionNonce": 1277099518,
+			"index": "av",
+			"isDeleted": false,
+			"id": "mSpBHv-X4bu8PQDfY3DaA",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -228.73998384295584,
+			"y": -507.1281993876746,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 190.74209052620014,
+			"height": 0,
+			"seed": 1033659106,
+			"groupIds": [
+				"7CchB7VnQHOifl6qJsFHR"
+			],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1715937290149,
+			"link": null,
+			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					190.74209052620014,
+					0
+				]
+			]
+		},
+		{
+			"type": "line",
+			"version": 390,
+			"versionNonce": 1205233890,
+			"index": "aw",
+			"isDeleted": false,
+			"id": "9KCGq9UGXNSMXe9qf9PAW",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -61.25912531156966,
+			"y": -534.0078393327113,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 0,
+			"height": 235.19692099968742,
+			"seed": 1804711586,
+			"groupIds": [
+				"7CchB7VnQHOifl6qJsFHR"
+			],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1715937290149,
+			"link": null,
+			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					235.19692099968742
+				]
+			]
+		},
+		{
+			"type": "line",
+			"version": 348,
+			"versionNonce": 365596222,
+			"index": "ax",
+			"isDeleted": false,
+			"id": "AlpxeEVAX5A3tYUzxveSO",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -29.210293122832834,
+			"y": -323.1060065234894,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 206.24959824153348,
+			"height": 0,
+			"seed": 522621538,
+			"groupIds": [
+				"7CchB7VnQHOifl6qJsFHR"
+			],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1715937290149,
+			"link": null,
+			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-206.24959824153348,
+					0
+				]
+			]
+		},
+		{
+			"type": "line",
+			"version": 352,
+			"versionNonce": 1822096546,
+			"index": "ay",
+			"isDeleted": false,
+			"id": "-d9xygBtJHhWAaXy72gWU",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -211.6817509905171,
+			"y": -533.4909210942808,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 0,
+			"height": 245.5352364713206,
+			"seed": 187299362,
+			"groupIds": [
+				"7CchB7VnQHOifl6qJsFHR"
+			],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1715937290149,
+			"link": null,
+			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					245.5352364713206
+				]
+			]
+		},
+		{
+			"id": "5mvntMm1e_y8iroOU-OEf",
+			"type": "arrow",
+			"x": 110.54009861285255,
+			"y": -430.5116716942787,
+			"width": 172.39737354575288,
+			"height": 1.4255324423219236,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"index": "az",
+			"roundness": {
+				"type": 2
+			},
+			"seed": 1575505726,
+			"version": 478,
+			"versionNonce": 2058937762,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1715937284882,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-172.39737354575288,
+					-1.4255324423219236
+				]
+			],
+			"lastCommittedPoint": [
+				276.7058967141544,
+				-108.23529411764702
+			],
+			"startBinding": {
+				"elementId": "zoGqJiik",
+				"focus": 0.013971929189010406,
+				"gap": 1
+			},
+			"endBinding": {
+				"elementId": "cqo5gQpb",
+				"focus": -0.6663243429683081,
+				"gap": 7.941194422104786
+			},
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
+		},
+		{
+			"id": "Md9e15Rc",
+			"type": "text",
+			"x": -527.1532137613126,
+			"y": 122.34531108428342,
+			"width": 475.6676206054691,
+			"height": 221.59550183785765,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"index": "b01",
+			"roundness": null,
+			"seed": 1674989474,
+			"version": 291,
+			"versionNonce": 503579262,
+			"isDeleted": false,
+			"boundElements": [
+				{
+					"id": "bm8sXGmgxvZZw6f7OUdaA",
+					"type": "arrow"
+				}
+			],
+			"updated": 1715937494275,
+			"link": null,
+			"locked": false,
+			"text": "- Truck rows\n- Tacho live data\n- Trip display \n    without editinf buttons\n   ",
+			"rawText": "- Truck rows\n- Tacho live data\n- Trip display \n    without editinf buttons\n   ",
+			"fontSize": 35.45528029405723,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "- Truck rows\n- Tacho live data\n- Trip display \n    without editinf buttons\n   ",
+			"lineHeight": 1.25
+		},
+		{
+			"id": "bm8sXGmgxvZZw6f7OUdaA",
+			"type": "arrow",
+			"x": 143.78005446785414,
+			"y": 278.078628141575,
+			"width": 205.86669921875,
+			"height": 18.13330078125,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"index": "b02",
+			"roundness": {
+				"type": 2
+			},
+			"seed": 1701862782,
+			"version": 85,
+			"versionNonce": 530190370,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1715937494276,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-205.86669921875,
+					-18.13330078125
+				]
+			],
+			"lastCommittedPoint": [
+				-205.86669921875,
+				-18.13330078125
+			],
+			"startBinding": {
+				"elementId": "EjpxCmYm",
+				"focus": -0.24764963649271315,
+				"gap": 10.366303061489134
+			},
+			"endBinding": {
+				"elementId": "Md9e15Rc",
+				"focus": 0.05151535846944528,
+				"gap": 1
+			},
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
 		},
 		{
 			"type": "line",
@@ -2392,6 +2878,43 @@ How to refresh dynamically? ^NY0YRacG
 			"containerId": "usgtevpf1kC0j_FKW0p-_",
 			"originalText": "",
 			"lineHeight": 1.25
+		},
+		{
+			"id": "890FZa0c",
+			"type": "text",
+			"x": 499.7016949013713,
+			"y": -515.3959903288599,
+			"width": 10,
+			"height": 25,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"index": "b00",
+			"roundness": null,
+			"seed": 1086114082,
+			"version": 3,
+			"versionNonce": 1368549538,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1715937312046,
+			"link": null,
+			"locked": false,
+			"text": "",
+			"rawText": "",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "",
+			"lineHeight": 1.25
 		}
 	],
 	"appState": {
@@ -2409,10 +2932,10 @@ How to refresh dynamically? ^NY0YRacG
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 348.1807442070846,
-		"scrollY": 870.6804087715299,
+		"scrollX": 764.5685524509436,
+		"scrollY": 779.8933786851152,
 		"zoom": {
-			"value": 0.8500000000000001
+			"value": 0.5999999999999999
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
