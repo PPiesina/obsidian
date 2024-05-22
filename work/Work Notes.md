@@ -4,7 +4,7 @@
 - [x] deploy
 - [ ] taskeliai
 	- [ ] ==neveikia shift selection kai filtrai įjungti==
-	- [ ] dar vienas update dėl left to drive skaičiavimo
+	- [ ] dar vienas update dėl left to drive skaičiavimo (visada pažiūrėti į tiesios linijos ilgį)
 	- [ ] Pasitarti su Vyteniu dėl šito test case (does task files show up on messages cmp)
 		- [ ] ![[Pasted image 20240517124413.png]]
 	- [ ] 
