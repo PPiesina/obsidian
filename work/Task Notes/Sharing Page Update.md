@@ -20,4 +20,6 @@ TODO:
 	- [ ] no editing stuff
 - [ ] truck display in vf with no messages
 - [ ] trip display
+- [ ] load stylesheets
+- [ ] 
 
