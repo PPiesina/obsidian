@@ -9,4 +9,4 @@ TODO:
 - [ ] check for data refreshing
 - [ ] include sharing stuff for guest users
 - [ ] remove logic from vf apex controller
-- [ ] 
+- [ ] ![[Pasted image 20240523131554.png]]
