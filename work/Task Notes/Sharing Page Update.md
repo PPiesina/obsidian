@@ -17,4 +17,7 @@ TODO:
 	- [ ] on icon click, open page (if no settings for that page, dont open)
 - [ ] map controller with dark light mode
 - [ ] tacho and trip display pages
-	- [ ] no 
+	- [ ] no editing stuff
+- [ ] truck display in vf with no messages
+- [ ] trip display
+
