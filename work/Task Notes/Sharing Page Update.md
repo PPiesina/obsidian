@@ -3,10 +3,18 @@
 ![[Sharing Page Update 2024-05-17 13.29.03.excalidraw]]
 
 TODO:
-- [ ] pass map into lwc
-	- [ ] if ok, clean up VF to be as minimal as possible
+- [x] pass map into lwc
+	- [x] if ok, clean up VF to be as minimal as possible
 - [ ] move google api key to c metadata
 - [ ] check for data refreshing
 - [ ] include sharing stuff for guest users
 - [ ] remove logic from vf apex controller
 ![[Pasted image 20240523131851.png]]
+- [ ] set vfwrapper context in lwc
+- [ ] truck rows with tacho, fuel and task details 
+	- [ ] icons 
+	- [ ] labels
+	- [ ] on icon click, open page (if no settings for that page, dont open)
+- [ ] map controller with dark light mode
+- [ ] tacho and trip display pages
+	- [ ] no 
