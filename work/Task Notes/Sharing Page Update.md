@@ -8,4 +8,4 @@ TODO:
 - [ ] move google api key to c metadata
 - [ ] check for data refreshing
 - [ ] include sharing stuff for guest users
-- [ ] 
+- [ ] remove
