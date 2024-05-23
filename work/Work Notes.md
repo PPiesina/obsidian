@@ -10,7 +10,7 @@
 	- [ ] 
 - [ ] lightning security checkbox
 - [ ] create/update  tasks 
-	- [ ] send mobile task to Vytenis
+	- [x] send mobile task to Vytenis
 - [ ] test out HERE restrictions
 - [ ] planner refactoring
 - [ ] apex/lwc documentation plugin

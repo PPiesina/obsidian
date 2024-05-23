@@ -1,4 +1,0 @@
-- [ ] susimokėti baudą
-- [ ] sąskaitos
-- [ ] pasiruošti varžyboms/Latvijai
-- [ ] 
