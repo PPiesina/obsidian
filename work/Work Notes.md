@@ -8,7 +8,7 @@
 	- [ ] Pasitarti su Vyteniu dėl šito test case (does task files show up on messages cmp)
 		- [ ] ![[Pasted image 20240517124413.png]]
 	- [ ] 
-- [ ] 
+- [ ] lightning security checkbox
 - [ ] create/update  tasks 
 	- [ ] send mobile task to Vytenis
 - [ ] test out HERE restrictions
