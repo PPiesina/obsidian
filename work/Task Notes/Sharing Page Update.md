@@ -21,5 +21,6 @@ TODO:
 - [ ] truck display in vf with no messages
 - [ ] trip display
 - [ ] load stylesheets
+- [ ] remove console loader???
 - [ ] 
 
