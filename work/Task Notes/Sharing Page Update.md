@@ -15,13 +15,14 @@ TODO:
 - [ ] ui permissions for sidebar and navigation bar
 - [ ] rename stuff from routical to rtcl
 - [ ] mini controller with dark/light mode toggle
-- [ ] cache managment class in sr
-- [ ] 
-- [ ] 
+	- [ ] icons
+	- [ ] cache managment class in sr
+- [ ] load trucks with refresh
 - [ ] truck rows with tacho, fuel and task details 
 	- [ ] icons 
 	- [ ] labels
 	- [ ] on icon click, open page (if no settings for that page, dont open)
+- [ ] truck display class in vf
 - [ ] map controller with dark light mode
 - [ ] tacho and trip display pages
 	- [ ] no editing stuff
