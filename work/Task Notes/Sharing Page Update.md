@@ -10,6 +10,7 @@ TODO:
 ![[Pasted image 20240523131851.png]]
 - [x] set vfwrapper context in lwc
 - [ ] dark map theme
+- [ ] enums for vf part
 - [ ] mini layout for sidebar and navigation
 - [ ] ui permissions for sidebar and navigation bar
 - [ ] rename stuff from routical to rtcl
