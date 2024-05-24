@@ -1,7 +1,5 @@
 ![[Sharing Page Update 2024-05-17 12.05.35.excalidraw]]
 
-![[Sharing Page Update 2024-05-17 13.29.03.excalidraw]]
-
 TODO:
 - [x] pass map into lwc
 	- [x] if ok, clean up VF to be as minimal as possible
@@ -16,6 +14,7 @@ TODO:
 - [ ] ui permissions for sidebar and navigation bar
 - [ ] rename stuff from routical to rtcl
 - [ ] mini controller with dark/light mode toggle
+- [ ] cache managment class in sr
 - [ ] 
 - [ ] 
 - [ ] truck rows with tacho, fuel and task details 
