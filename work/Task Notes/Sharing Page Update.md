@@ -22,5 +22,7 @@ TODO:
 - [ ] trip display
 - [ ] load stylesheets
 - [ ] remove console loader???
+- [ ] pretier in sr
+- [ ] dark light theme
 - [ ] 
 
