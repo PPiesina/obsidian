@@ -32,7 +32,7 @@ TODO:
 - [ ] optimal way to load icons
 - [ ] utils package
 - [ ] checking UI permissions in vf map classes
-- [ ] 
+- [ ] make vf error more beautiful
 - [ ] check if works
 	- [ ] pop up
 	- [ ] sf navigation
