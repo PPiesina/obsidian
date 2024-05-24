@@ -10,7 +10,7 @@ TODO:
 - [ ] include sharing stuff for guest users
 - [ ] remove logic from vf apex controller
 ![[Pasted image 20240523131851.png]]
-- [ ] set vfwrapper context in lwc
+- [x] set vfwrapper context in lwc
 - [ ] truck rows with tacho, fuel and task details 
 	- [ ] icons 
 	- [ ] labels
