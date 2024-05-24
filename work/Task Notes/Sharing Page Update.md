@@ -28,5 +28,6 @@ TODO:
 - [ ] custom permissions
 - [ ] c metadata stuff
 - [ ] record sharing with specific users
+- [ ] navigation bar
 - [ ] 
 
