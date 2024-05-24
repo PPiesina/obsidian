@@ -24,5 +24,9 @@ TODO:
 - [ ] remove console loader???
 - [ ] pretier in sr
 - [ ] dark light theme
+- [ ] rename components to routical-something
+- [ ] custom permissions
+- [ ] c metadata stuff
+- [ ] record sharing with specific users
 - [ ] 
 
