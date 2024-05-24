@@ -29,6 +29,10 @@ TODO:
 - [ ] c metadata stuff
 - [ ] record sharing with specific users
 - [ ] navigation bar
+- [ ] optimal way to load icons
+- [ ] move components that im using here to utils package
+- [ ] checking UI permissions in vf map classes
+- [ ] 
 - [ ] check if works
 	- [ ] pop up
 	- [ ] sf navigation
