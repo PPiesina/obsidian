@@ -11,6 +11,10 @@ TODO:
 - [ ] remove logic from vf apex controller
 ![[Pasted image 20240523131851.png]]
 - [x] set vfwrapper context in lwc
+- [ ] dark map theme
+- [ ] mini layout for sidebar and navigation
+- [ ] 
+- [ ] 
 - [ ] truck rows with tacho, fuel and task details 
 	- [ ] icons 
 	- [ ] labels
