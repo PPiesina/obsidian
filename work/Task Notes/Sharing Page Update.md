@@ -30,7 +30,7 @@ TODO:
 - [ ] trip display
 - [ ] load stylesheets
 - [ ] remove console loader???
-- [ ] pretier in sr
+- [ ] prettier in sr
 - [ ] dark light theme
 - [ ] rename components to routical-something
 - [ ] custom permissions
