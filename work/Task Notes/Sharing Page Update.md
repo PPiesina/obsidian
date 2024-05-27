@@ -31,6 +31,10 @@ TODO:
 - [ ] load stylesheets
 - [ ] remove console loader???
 - [ ] prettier in sr
+- [ ] sharing
+	- [ ] programatic share script
+	- [ ] sharing trigger on trip
+	- [ ] make vehicle private and then share with button every required vehicle
 - [ ] dark light theme
 - [ ] rename components to routical-something
 - [ ] custom permissions
