@@ -12,17 +12,19 @@ TODO:
 - [x] dark map theme
 - [ ] preparation before actual development:
 	- [ ] ts check for code suggestions and stuff
-	- [ ] formatting in all existing classes
+	- [ ] ==formatting in all existing classes
 	- [ ] custom metadata for settings and stuff
 	- [ ] ui permissions
 	- [ ] rename stuff to "rtcl"
 	- [ ] prepare console wrapper
-	- [ ] ==sr folder nesting with xml
+	- [x] sr folder nesting with xml (nepavyko)
 	- [ ] record sharing logic
 	- [x] how to load zipped resource correctly?
 	- [ ] enums in vf for all of the console
 	- [ ] icons (import doing theme setter button)
 	- [ ] basic data refresher
+	- [ ] utils package
+	- [ ] 
 - [x] mini layout for sidebar and navigation
 - [ ] ui permissions for sidebar and navigation bar
 - [ ] rename stuff from routical to rtcl
