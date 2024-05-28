@@ -23,8 +23,6 @@ TODO:
 	- [x] how to load zipped resource correctly?
 	- [ ] ==enums in vf for all of the console
 		- [ ] remove console loader
-		- [ ] move map styles to enums also
-		- [ ] 
 	- [ ] icons (import doing theme setter button)
 	- [ ] basic data refresher (by making rtcl-sidebar package)
 	- [ ] utils package
