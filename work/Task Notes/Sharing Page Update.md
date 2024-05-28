@@ -14,6 +14,7 @@ TODO:
 	- [ ] ts check for code suggestions and stuff
 	- [x] formatting in all existing classes
 	- [ ] ==custom metadata for settings and stuff
+		- [ ] move to rtclSettings class
 	- [ ] ui permissions
 	- [ ] rename stuff to "rtcl"
 	- [ ] prepare console wrapper
