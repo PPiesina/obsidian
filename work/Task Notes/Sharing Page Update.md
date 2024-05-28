@@ -12,8 +12,8 @@ TODO:
 - [x] dark map theme
 - [ ] preparation before actual development:
 	- [ ] ts check for code suggestions and stuff
-	- [ ] ==formatting in all existing classes
-	- [ ] custom metadata for settings and stuff
+	- [x] formatting in all existing classes
+	- [ ] ==custom metadata for settings and stuff
 	- [ ] ui permissions
 	- [ ] rename stuff to "rtcl"
 	- [ ] prepare console wrapper
@@ -22,7 +22,7 @@ TODO:
 	- [x] how to load zipped resource correctly?
 	- [ ] enums in vf for all of the console
 	- [ ] icons (import doing theme setter button)
-	- [ ] basic data refresher
+	- [ ] basic data refresher (by making rtcl-sidebar package)
 	- [ ] utils package
 	- [ ] 
 - [x] mini layout for sidebar and navigation
