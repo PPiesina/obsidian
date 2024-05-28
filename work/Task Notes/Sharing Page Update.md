@@ -6,7 +6,7 @@ TODO:
 - [ ] move google api key to c metadata
 - [ ] check for data refreshing
 - [ ] include sharing stuff for guest users
-- [ ] remove logic from vf apex controller
+- [x] remove logic from vf apex controller
 ![[Pasted image 20240523131851.png]]
 - [x] set vfwrapper context in lwc
 - [x] dark map theme
@@ -26,11 +26,9 @@ TODO:
 	- [ ] utils package
 	- [ ] 
 - [x] mini layout for sidebar and navigation
-- [ ] ui permissions for sidebar and navigation bar
-- [ ] rename stuff from routical to rtcl
 - [ ] mini controller with dark/light mode toggle
 	- [ ] icons
-	- [ ] cache managment class in sr
+	- [x] cache managment class in sr
 - [ ] load trucks with refresh
 - [ ] truck rows with tacho, fuel and task details 
 	- [ ] icons 
@@ -44,13 +42,12 @@ TODO:
 - [ ] trip display
 - [ ] load stylesheets
 - [ ] remove console loader???
-- [ ] prettier in sr
+- [x] prettier in sr
 - [ ] sharing
 	- [ ] programatic share script
 	- [ ] sharing trigger on trip
 	- [ ] make vehicle private and then share with button every required vehicle
-- [ ] dark light theme
-- [ ] rename components to routical-something
+- [x] dark light theme
 - [ ] custom permissions
 - [ ] c metadata stuff
 - [ ] record sharing with specific users
