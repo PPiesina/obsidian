@@ -13,7 +13,12 @@ TODO:
 - [ ] preparation before actual development:
 	- [ ] ts check for code suggestions and stuff
 	- [ ] formatting in all existing classes
-	- [ ] custom metadata
+	- [ ] custom metadata for settings and stuff
+	- [ ] ui permissions
+	- [ ] rename stuff to "rtcl"
+	- [ ] prepare console wrapper
+	- [ ] sr folder nesting with xml
+	- [ ] ==record sharing logic
 	- [ ] 
 	- [ ] enums in vf for all of the console
 - [x] mini layout for sidebar and navigation
