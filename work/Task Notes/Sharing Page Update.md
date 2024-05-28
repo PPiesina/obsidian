@@ -13,7 +13,7 @@ TODO:
 - [ ] preparation before actual development:
 	- [ ] ts check for code suggestions and stuff
 	- [x] formatting in all existing classes
-	- [x] ==custom metadata for settings and stuff
+	- [x] custom metadata for settings and stuff
 		- [x] move to rtclSettings class
 	- [ ] ui permissions
 	- [ ] rename stuff to "rtcl"
@@ -21,7 +21,7 @@ TODO:
 	- [x] sr folder nesting with xml (nepavyko)
 	- [ ] record sharing logic
 	- [x] how to load zipped resource correctly?
-	- [ ] enums in vf for all of the console
+	- [ ] ==enums in vf for all of the console
 	- [ ] icons (import doing theme setter button)
 	- [ ] basic data refresher (by making rtcl-sidebar package)
 	- [ ] utils package
