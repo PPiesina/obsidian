@@ -21,7 +21,7 @@ TODO:
 	- [ ] record sharing logic
 	- [x] how to load zipped resource correctly?
 	- [ ] enums in vf for all of the console
-	- [ ] icons
+	- [ ] icons (import doing theme setter button)
 	- [ ] basic data refresher
 - [x] mini layout for sidebar and navigation
 - [ ] ui permissions for sidebar and navigation bar
