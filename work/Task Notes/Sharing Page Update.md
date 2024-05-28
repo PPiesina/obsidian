@@ -21,8 +21,8 @@ TODO:
 	- [x] sr folder nesting with xml (nepavyko)
 	- [ ] record sharing logic
 	- [x] how to load zipped resource correctly?
-	- [ ] ==enums in vf for all of the console
-		- [ ] remove console loader
+	- [x] enums in vf for all of the console
+	- [ ] remove console loader
 	- [ ] icons (import doing theme setter button)
 	- [ ] basic data refresher (by making rtcl-sidebar package)
 	- [ ] utils package
