@@ -19,8 +19,10 @@ TODO:
 	- [ ] prepare console wrapper
 	- [ ] sr folder nesting with xml
 	- [ ] ==record sharing logic
-	- [ ] how to load zipped resource correctly?
+	- [x] how to load zipped resource correctly?
 	- [ ] enums in vf for all of the console
+	- [ ] icons
+	- [ ] basic data refresher
 - [x] mini layout for sidebar and navigation
 - [ ] ui permissions for sidebar and navigation bar
 - [ ] rename stuff from routical to rtcl
