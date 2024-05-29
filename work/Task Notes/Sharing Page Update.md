@@ -15,9 +15,9 @@ TODO:
 	- [x] formatting in all existing classes
 	- [x] custom metadata for settings and stuff
 		- [x] move to rtclSettings class
-	- [ ] ==ui permissions
-		- [ ] also apply to vf classes
-		- [ ] "see all" permission??
+	- [x] ==ui permissions
+		- [x] also apply to vf classes
+		- [x] "see all" permission??
 		- [ ] 
 	- [ ] rename stuff to "rtcl"
 	- [ ] move google map url to custom settings
