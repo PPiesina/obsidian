@@ -12,6 +12,8 @@ TODO:
 - [x] dark map theme
 - [ ] preparation before actual development:
 	- [ ] ts check for code suggestions and stuff
+		- [ ] staic resources + imports like advanced marker wrapper
+		- [ ] 
 	- [x] formatting in all existing classes
 	- [x] custom metadata for settings and stuff
 		- [x] move to rtclSettings class
