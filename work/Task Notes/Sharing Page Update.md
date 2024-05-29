@@ -33,6 +33,7 @@ TODO:
 	- [ ] utils package
 	- [ ] extendible navigation items and tool wrapper
 	- [ ] check api usage
+	- [ ] try inserting slot
 - [x] mini layout for sidebar and navigation
 - [ ] mini controller with dark/light mode toggle
 	- [ ] icons
