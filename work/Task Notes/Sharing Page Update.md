@@ -15,7 +15,10 @@ TODO:
 	- [x] formatting in all existing classes
 	- [x] custom metadata for settings and stuff
 		- [x] move to rtclSettings class
-	- [ ] ui permissions
+	- [ ] ==ui permissions
+		- [ ] also apply to vf classes
+		- [ ] "see all" permission??
+		- [ ] 
 	- [ ] rename stuff to "rtcl"
 	- [ ] prepare console wrapper
 	- [x] sr folder nesting with xml (nepavyko)
