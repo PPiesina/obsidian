@@ -20,6 +20,7 @@ TODO:
 		- [ ] "see all" permission??
 		- [ ] 
 	- [ ] rename stuff to "rtcl"
+	- [ ] move google map url to custom settings
 	- [ ] prepare console wrapper
 	- [x] sr folder nesting with xml (nepavyko)
 	- [ ] record sharing logic
