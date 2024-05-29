@@ -8,5 +8,6 @@
 	- [ ] gal papildyti info kad matyti taskus kuriuos vairuotojas resetino
 - [ ] tolls atkarpas veliau darom
 - [ ] failų metadata realiai tableto info nereikia
+- [ ] task documents pasirinkty ar skanavimas ar foto
 - [ ] 
 	
