@@ -9,5 +9,6 @@
 - [ ] tolls atkarpas veliau darom
 - [ ] failų metadata realiai tableto info nereikia
 - [ ] task documents pasirinkty ar skanavimas ar foto
-- [ ] 
+- [ ] ar periodiškai tikrina taskus ir žinutes tablete bet 
+	- [ ] 
 	
