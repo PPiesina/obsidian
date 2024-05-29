@@ -15,7 +15,7 @@ TODO:
 	- [x] formatting in all existing classes
 	- [x] custom metadata for settings and stuff
 		- [x] move to rtclSettings class
-	- [x] ==ui permissions
+	- [x] ui permissions
 		- [x] also apply to vf classes
 		- [x] "see all" permission??
 	- [ ] rename stuff to "rtcl"
@@ -26,7 +26,7 @@ TODO:
 	- [ ] record sharing logic
 	- [x] how to load zipped resource correctly?
 	- [x] enums in vf for all of the console
-		- [ ] ==maybe move enum loading to vf controller before anything is loaded??
+		- [x] maybe move enum loading to vf controller before anything is loaded??
 	- [ ] remove console loader
 	- [ ] icons (import doing theme setter button)
 	- [ ] basic data refresher (by making rtcl-sidebar package)
