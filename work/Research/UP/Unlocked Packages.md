@@ -14,6 +14,8 @@ Unlocked Package research - Google Docs
 - [ ] add PS
 - [ ] retrieve metadata
 - [ ] create UP
+- [ ] ==how dynamic components would work?
+	- [ ] maybe try inserting slots from vf page?
 - [ ] deploy to Trailhead org
 - [ ] repeat by creating dependency
 - [ ] try moving dependency out to other package and deploy again

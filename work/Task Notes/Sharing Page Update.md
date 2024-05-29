@@ -12,8 +12,10 @@ TODO:
 - [x] dark map theme
 - [ ] preparation before actual development:
 	- [ ] ts check for code suggestions and stuff
-		- [ ] staic resources + imports like advanced marker wrapper
-		- [ ] 
+		- [ ] static resources + imports like advanced marker wrapper
+		- [ ] lwc + vf/lwc/wrapper object
+		- [ ] lwc from other compoents
+		- [ ] vf
 	- [x] formatting in all existing classes
 	- [x] custom metadata for settings and stuff
 		- [x] move to rtclSettings class
@@ -35,7 +37,6 @@ TODO:
 	- [ ] utils package
 	- [ ] extendible navigation items and tool wrapper
 	- [ ] check api usage
-	- [ ] try inserting slot
 - [x] mini layout for sidebar and navigation
 - [ ] mini controller with dark/light mode toggle
 	- [ ] icons
