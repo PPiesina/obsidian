@@ -32,6 +32,7 @@ TODO:
 	- [ ] basic data refresher (by making rtcl-sidebar package)
 	- [ ] utils package
 	- [ ] extendible navigation items and tool wrapper
+	- [ ] check api usage
 - [x] mini layout for sidebar and navigation
 - [ ] mini controller with dark/light mode toggle
 	- [ ] icons
