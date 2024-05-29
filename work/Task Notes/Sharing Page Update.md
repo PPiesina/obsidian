@@ -3,7 +3,7 @@
 TODO:
 - [x] pass map into lwc
 	- [x] if ok, clean up VF to be as minimal as possible
-- [ ] move google api key to c metadata
+- [x] move google api key to c metadata
 - [ ] check for data refreshing
 - [ ] include sharing stuff for guest users
 - [x] remove logic from vf apex controller
