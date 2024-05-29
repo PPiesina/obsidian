@@ -6,5 +6,7 @@
 - [ ] del task reseto, neleisti ... tikrint pagal laika 15-30 laiko
 	- [ ] ==ar reikia max vieną atgal grįžti??
 	- [ ] gal papildyti info kad matyti taskus kuriuos vairuotojas resetino
+- [ ] tolls atkarpas veliau darom
+- [ ] failų metadata realiai tableto info nereikia
 - [ ] 
 	
