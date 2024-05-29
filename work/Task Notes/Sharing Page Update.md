@@ -25,6 +25,7 @@ TODO:
 	- [ ] record sharing logic
 	- [x] how to load zipped resource correctly?
 	- [x] enums in vf for all of the console
+		- [ ] ==maybe move enum loading to vf controller before anything is loaded??
 	- [ ] remove console loader
 	- [ ] icons (import doing theme setter button)
 	- [ ] basic data refresher (by making rtcl-sidebar package)
