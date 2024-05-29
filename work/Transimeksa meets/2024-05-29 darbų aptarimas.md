@@ -12,4 +12,6 @@
 - [ ] ar periodiškai tikrina taskus ir žinutes tablete bet 
 	- [ ] patikrinti ar gavo notificationą
 - [ ] 1 prioriteto tasku atstumu sumavimui
+- [ ] gal vidutinis vilkiko greitis?
+- [ ] 
 	
