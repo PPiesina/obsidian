@@ -26,7 +26,7 @@ TODO:
 	- [ ] icons (import doing theme setter button)
 	- [ ] basic data refresher (by making rtcl-sidebar package)
 	- [ ] utils package
-	- [ ] 
+	- [ ] extendible navigation items and tool wrapper
 - [x] mini layout for sidebar and navigation
 - [ ] mini controller with dark/light mode toggle
 	- [ ] icons
