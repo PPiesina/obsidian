@@ -18,9 +18,9 @@ TODO:
 	- [x] ==ui permissions
 		- [x] also apply to vf classes
 		- [x] "see all" permission??
-		- [ ] 
 	- [ ] rename stuff to "rtcl"
-	- [ ] move google map url to custom settings
+	- [ ] retrieve label to repo
+	- [x] move google map url to label
 	- [ ] prepare console wrapper
 	- [x] sr folder nesting with xml (nepavyko)
 	- [ ] record sharing logic
