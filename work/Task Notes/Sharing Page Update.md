@@ -18,7 +18,7 @@ TODO:
 		- [ ] vf
 	- [x] formatting in all existing classes
 	- [x] custom metadata for settings and stuff
-		- [x] move to rtclSettings class
+		- [x] move to rtclSettings classl
 	- [x] ui permissions
 		- [x] also apply to vf classes
 		- [x] "see all" permission??
