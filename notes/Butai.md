@@ -7,5 +7,11 @@
 		- yra sandeliukas??
 		- 
 	- [https://m.en.aruodas.lt/paieska-zemelapyje/?obj=1&FPriceMin=100000&FPriceMax=180000#zoom:17;center:(54.71998541314426,25.28731868206421);1-3417345](https://m.en.aruodas.lt/paieska-zemelapyje/?obj=1&FPriceMin=100000&FPriceMax=180000&fbclid=IwZXh0bgNhZW0CMTAAAR1nhiTApXW-mWxfSTnSHU9lrueEYLPJ1yQQgHkskrQrNIr9btWMPTiQdGI_aem_AY3ixUzaBmYHoRuQhahFgRt7FGw72LidOqg709FeRLb7mpf4-CTq0GXaYeWT5JaCXpsU4A_AMkhkJQw-mr8l1XUS#zoom:17;center:(54.71998541314426,25.28731868206421);1-3417345)
+		- maza vonia bet yra papildomas kambarys
+		- galima nusipirkti garaza ir sandeliuka (kokia kaina?)
+		- nelabai yra vietos valgomajam
+		- 
 	- [https://m.aruodas.lt/butai-vilniuje-pasilaiciuose-gabijos-g-pasilaiciuose-nuostabioje-vietoje-1-3436266/?return_url=%2Fbutai%2Fvilniuje%2F%3FFAreaOverAllMin%3D50%26date_from%3D1716552144%26utm_source%3Demail%26utm_medium%3Dletter%26utm_campaign%3Dsubscription%26obj%3D1%26FRegion%3D461%26FDistrict%3D1#gallery](https://m.aruodas.lt/butai-vilniuje-pasilaiciuose-gabijos-g-pasilaiciuose-nuostabioje-vietoje-1-3436266/?return_url=%2Fbutai%2Fvilniuje%2F%3FFAreaOverAllMin%3D50%26date_from%3D1716552144%26utm_source%3Demail%26utm_medium%3Dletter%26utm_campaign%3Dsubscription%26obj%3D1%26FRegion%3D461%26FDistrict%3D1&fbclid=IwZXh0bgNhZW0CMTAAAR2BOkju7pR9_pGEjUQhOY4yG1q4PJ3BhezpP2vJyl_gaT1F5wM5s9T7wtI_aem_AY0ibCxzGvXxPmvc8e1PihTcxQcBOx_iUcSWTNwuL_4gBfGDXnXzywZFXrzVQPH0qrpfj0dl5eUT06f4KNc14Z1T#gallery)
-- 
+		- pigus
+		- pasilaiciai
+		- senas namas, tikriausiai brangus sildymas
