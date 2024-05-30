@@ -38,6 +38,7 @@ TODO:
 	- [ ] utils package
 	- [ ] extendible navigation items and tool wrapper
 	- [ ] check api usage
+	- [ ] auto save in vscode??
 	- [ ] calling vf <=> lwc with type keyof
 ![[Pasted image 20240529135421.png]]
 - [x] mini layout for sidebar and navigation
