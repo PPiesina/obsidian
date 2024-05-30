@@ -1,6 +1,11 @@
 - [https://www.aruodas.lt/nt_zemelapis/butai/vilniuje/?obj=1&FRegion=461&FDistrict=1&FQuartal=106&FOrder=Importance&on_map=1#zoom:18;center:(54.71702639023373,25.290308159906683);1-3421541](https://www.aruodas.lt/nt_zemelapis/butai/vilniuje/?obj=1&FRegion=461&FDistrict=1&FQuartal=106&FOrder=Importance&on_map=1#zoom:18;center:(54.71702639023373,25.290308159906683);1-3421541)
 	- pagrindinis siuo metu
 
-
-- [https://m.en.aruodas.lt/paieska-zemelapyje/?obj=1&FPriceMin=100000&FPriceMax=180000#zoom:17;center:(54.71998541314426,25.28731868206421);1-3425191](https://m.en.aruodas.lt/paieska-zemelapyje/?obj=1&FPriceMin=100000&FPriceMax=180000&fbclid=IwZXh0bgNhZW0CMTAAAR3NxJadmM0wxZJ_8CfmqaFxa_DBX4pi8gu0oWMEg7f70VaBqWSDl-pElZs_aem_AY1Qm9B1q2oETCTMokdN8rvo_7eJK1Xrbf2eq0wKlRAeiz6Wfsrnx4S9U409zvSVNlDylogct3J2Yk0eKYxniwN1#zoom:17;center:(54.71998541314426,25.28731868206421);1-3425191)
+- kiti variantai:
+	- [https://m.en.aruodas.lt/paieska-zemelapyje/?obj=1&FPriceMin=100000&FPriceMax=180000#zoom:17;center:(54.71998541314426,25.28731868206421);1-3425191](https://m.en.aruodas.lt/paieska-zemelapyje/?obj=1&FPriceMin=100000&FPriceMax=180000&fbclid=IwZXh0bgNhZW0CMTAAAR3NxJadmM0wxZJ_8CfmqaFxa_DBX4pi8gu0oWMEg7f70VaBqWSDl-pElZs_aem_AY1Qm9B1q2oETCTMokdN8rvo_7eJK1Xrbf2eq0wKlRAeiz6Wfsrnx4S9U409zvSVNlDylogct3J2Yk0eKYxniwN1#zoom:17;center:(54.71998541314426,25.28731868206421);1-3425191)
+		- tik vienas komabarys
+		- yra sandeliukas??
+		- 
+	- [https://m.en.aruodas.lt/paieska-zemelapyje/?obj=1&FPriceMin=100000&FPriceMax=180000#zoom:17;center:(54.71998541314426,25.28731868206421);1-3417345](https://m.en.aruodas.lt/paieska-zemelapyje/?obj=1&FPriceMin=100000&FPriceMax=180000&fbclid=IwZXh0bgNhZW0CMTAAAR1nhiTApXW-mWxfSTnSHU9lrueEYLPJ1yQQgHkskrQrNIr9btWMPTiQdGI_aem_AY3ixUzaBmYHoRuQhahFgRt7FGw72LidOqg709FeRLb7mpf4-CTq0GXaYeWT5JaCXpsU4A_AMkhkJQw-mr8l1XUS#zoom:17;center:(54.71998541314426,25.28731868206421);1-3417345)
+	- [https://m.aruodas.lt/butai-vilniuje-pasilaiciuose-gabijos-g-pasilaiciuose-nuostabioje-vietoje-1-3436266/?return_url=%2Fbutai%2Fvilniuje%2F%3FFAreaOverAllMin%3D50%26date_from%3D1716552144%26utm_source%3Demail%26utm_medium%3Dletter%26utm_campaign%3Dsubscription%26obj%3D1%26FRegion%3D461%26FDistrict%3D1#gallery](https://m.aruodas.lt/butai-vilniuje-pasilaiciuose-gabijos-g-pasilaiciuose-nuostabioje-vietoje-1-3436266/?return_url=%2Fbutai%2Fvilniuje%2F%3FFAreaOverAllMin%3D50%26date_from%3D1716552144%26utm_source%3Demail%26utm_medium%3Dletter%26utm_campaign%3Dsubscription%26obj%3D1%26FRegion%3D461%26FDistrict%3D1&fbclid=IwZXh0bgNhZW0CMTAAAR2BOkju7pR9_pGEjUQhOY4yG1q4PJ3BhezpP2vJyl_gaT1F5wM5s9T7wtI_aem_AY0ibCxzGvXxPmvc8e1PihTcxQcBOx_iUcSWTNwuL_4gBfGDXnXzywZFXrzVQPH0qrpfj0dl5eUT06f4KNc14Z1T#gallery)
 - 
