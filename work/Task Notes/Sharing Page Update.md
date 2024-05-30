@@ -43,12 +43,12 @@ TODO:
 - [x] mini layout for sidebar and navigation
 - [ ] mini controller with dark/light mode toggle
 	- [ ] icons
-	- [x] cache managment class in sr
+	- [x] cache management class in sr
 - [ ] load trucks with refresh
 - [ ] truck rows with tacho, fuel and task details 
 	- [ ] icons 
 	- [ ] labels
-	- [ ] on icon click, open page (if no settings for that page, dont open)
+	- [ ] on icon click, open page (if no settings for that page, don't open)
 - [ ] truck display class in vf
 - [ ] map controller with dark light mode
 - [ ] tacho and trip display pages
