@@ -27,7 +27,7 @@ TODO:
 	- [x] move google map url to label
 	- [x] prepare console wrapper
 	- [ ] check for security when calling vf wrapper from lwc
-	- [ ] 
+		- [ ] somehow add private methods in vfWrapper
 	- [x] sr folder nesting with xml (nepavyko)
 	- [ ] record sharing logic
 	- [ ] avoid sharing page deletion
