@@ -12,14 +12,13 @@ TODO:
 - [x] dark map theme
 - [ ] preparation before actual development:
 	- [ ] ts check for code suggestions and stuff
-		- [ ] copy stuff from planner branch
-		- [ ] make husky pre commit work correctly
-		- [ ] 
+		- [x] copy stuff from planner branch
+		- [x] make husky pre commit work correctly
 		- [ ] static resources + imports like advanced marker wrapper
-		- [ ] lwc + vf/lwc/wrapper object
+		- [x] lwc + vf/lwc/wrapper object
 		- [ ] lwc from other components
-		- [ ] vf
-		- [ ] somehow add private methods in vfWrapper
+		- [ ] ==Google types
+		- [x] somehow add private methods in vfWrapper (@Private tag)
 	- [x] formatting in all existing classes
 	- [x] custom metadata for settings and stuff
 		- [x] move to rtclSettings class
