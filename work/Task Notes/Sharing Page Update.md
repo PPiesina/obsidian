@@ -12,14 +12,17 @@ TODO:
 - [x] dark map theme
 - [ ] preparation before actual development:
 	- [ ] ts check for code suggestions and stuff
+		- [ ] copy stuff from planner branch
+		- [ ] make husky pre commit work correctly
+		- [ ] 
 		- [ ] static resources + imports like advanced marker wrapper
 		- [ ] lwc + vf/lwc/wrapper object
-		- [ ] lwc from other compoents
+		- [ ] lwc from other components
 		- [ ] vf
 		- [ ] somehow add private methods in vfWrapper
 	- [x] formatting in all existing classes
 	- [x] custom metadata for settings and stuff
-		- [x] move to rtclSettings classl
+		- [x] move to rtclSettings class
 	- [x] ui permissions
 		- [x] also apply to vf classes
 		- [x] "see all" permission??
