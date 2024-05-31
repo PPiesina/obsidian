@@ -16,6 +16,7 @@ TODO:
 		- [ ] lwc + vf/lwc/wrapper object
 		- [ ] lwc from other compoents
 		- [ ] vf
+		- [ ] somehow add private methods in vfWrapper
 	- [x] formatting in all existing classes
 	- [x] custom metadata for settings and stuff
 		- [x] move to rtclSettings classl
@@ -26,11 +27,10 @@ TODO:
 	- [x] retrieve label and settings to repo
 	- [x] move google map url to label
 	- [x] prepare console wrapper
-	- [ ] check for security when calling vf wrapper from lwc
-		- [ ] somehow add private methods in vfWrapper
+	- [x] check for security when calling vf wrapper from lwc
 	- [x] sr folder nesting with xml (nepavyko)
 	- [ ] record sharing logic
-	- [ ] avoid sharing page deletion
+	- [x] avoid sharing page deletion
 	- [x] how to load zipped resource correctly?
 	- [x] enums in vf for all of the console
 		- [x] maybe move enum loading to vf controller before anything is loaded??
