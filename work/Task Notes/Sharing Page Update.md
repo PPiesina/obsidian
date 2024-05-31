@@ -25,7 +25,7 @@ TODO:
 	- [x] rename stuff to "rtcl"
 	- [x] retrieve label and settings to repo
 	- [x] move google map url to label
-	- [ ] ==prepare console wrapper
+	- [ ] prepare console wrapper
 	- [x] sr folder nesting with xml (nepavyko)
 	- [ ] record sharing logic
 	- [ ] avoid sharing page deletion
@@ -34,7 +34,7 @@ TODO:
 		- [x] maybe move enum loading to vf controller before anything is loaded??
 	- [x] remove console loader
 	- [ ] icons (import doing theme setter button) 
-		- [ ] first do one icon import with all main styles without modifying css
+		- [ ] ==first do one icon import with all main styles without modifying css
 	- [ ] basic data refresher (by making rtcl-sidebar package)
 	- [ ] utils package
 	- [ ] extendible navigation items and tool wrapper
