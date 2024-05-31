@@ -23,7 +23,7 @@ TODO:
 		- [x] also apply to vf classes
 		- [x] "see all" permission??
 	- [ ] ==rename stuff to "rtcl"
-	- [ ] ==retrieve label and settings to repo
+	- [x] retrieve label and settings to repo
 	- [x] move google map url to label
 	- [ ] ==prepare console wrapper
 	- [x] sr folder nesting with xml (nepavyko)
@@ -31,7 +31,7 @@ TODO:
 	- [x] how to load zipped resource correctly?
 	- [x] enums in vf for all of the console
 		- [x] maybe move enum loading to vf controller before anything is loaded??
-	- [x] ==remove console loader
+	- [x] remove console loader
 	- [ ] icons (import doing theme setter button) 
 		- [ ] first do one icon import with all main styles without modifying css
 	- [ ] basic data refresher (by making rtcl-sidebar package)
