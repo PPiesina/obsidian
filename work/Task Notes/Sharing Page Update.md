@@ -28,6 +28,7 @@ TODO:
 	- [ ] ==prepare console wrapper
 	- [x] sr folder nesting with xml (nepavyko)
 	- [ ] record sharing logic
+	- [ ] avoid sharing page deletion
 	- [x] how to load zipped resource correctly?
 	- [x] enums in vf for all of the console
 		- [x] maybe move enum loading to vf controller before anything is loaded??
