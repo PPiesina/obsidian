@@ -25,7 +25,7 @@ TODO:
 	- [x] rename stuff to "rtcl"
 	- [x] retrieve label and settings to repo
 	- [x] move google map url to label
-	- [ ] prepare console wrapper
+	- [ ] ==prepare console wrapper
 	- [x] sr folder nesting with xml (nepavyko)
 	- [ ] record sharing logic
 	- [ ] avoid sharing page deletion
