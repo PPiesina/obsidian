@@ -22,7 +22,7 @@ TODO:
 	- [x] ui permissions
 		- [x] also apply to vf classes
 		- [x] "see all" permission??
-	- [ ] ==rename stuff to "rtcl"
+	- [x] rename stuff to "rtcl"
 	- [x] retrieve label and settings to repo
 	- [x] move google map url to label
 	- [ ] ==prepare console wrapper
