@@ -26,6 +26,8 @@ TODO:
 	- [x] retrieve label and settings to repo
 	- [x] move google map url to label
 	- [ ] ==prepare console wrapper
+	- [ ] check for security when calling vf wrapper from lwc
+	- [ ] 
 	- [x] sr folder nesting with xml (nepavyko)
 	- [ ] record sharing logic
 	- [ ] avoid sharing page deletion
