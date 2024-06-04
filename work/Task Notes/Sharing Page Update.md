@@ -62,6 +62,8 @@ TODO:
 	- [ ] navigation bar with ui permissions
 	- [ ] map styling import (stuff like hidden controlls and updated street view icon)
 	- [ ] get data needed for itally group
+	- [ ] what to add to wrapper:
+		- [ ] trucks
 
 
 
