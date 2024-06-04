@@ -55,10 +55,17 @@ TODO:
 - [ ] todo for sprint 16 task:
 	- [ ] import sidebar and fix all references
 		- [ ] add ui permissions to truck row component
-		- [ ] 
+		- [ ] truck map display class
+	- [ ] tacho tool
+	- [ ] trip display
+		- [ ] trip display class for map
 	- [ ] navigation bar with ui permissions
 	- [ ] map styling import (stuff like hidden controlls and updated street view icon)
 	- [ ] get data needed for itally group
+
+
+
+
 - [ ] truck rows with tacho, fuel and task details 
 	- [ ] icons 
 	- [ ] labels
