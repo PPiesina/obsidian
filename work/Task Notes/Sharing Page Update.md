@@ -52,6 +52,8 @@ TODO:
 	- [ ] icons
 	- [x] cache management class in sr
 - [ ] load trucks with refresh
+- [ ] todo for sprint 16 task:
+	- [ ] 
 - [ ] truck rows with tacho, fuel and task details 
 	- [ ] icons 
 	- [ ] labels
