@@ -101,10 +101,12 @@ TODO:
 	- [ ] graphQl
 	- [ ] 
 
-- [ ] create permissions
-- [ ] assign permissions
-- [ ] import them to wrapper
+- [x] create permissions
+- [x] assign permissions
+- [x] import them to wrapper
 - [ ] add conditionals to lwc:if
+- [ ] send permissions to VF
+	- [ ] remove ui stuff from map
 - [ ] make vehicles private
 - [ ] share them with admin 
 - [ ] share specific ones with specific user and test out functionalities
