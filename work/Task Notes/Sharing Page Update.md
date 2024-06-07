@@ -46,7 +46,7 @@ TODO:
 	- [DefinitelyTyped/types/google.maps at master · DefinitelyTyped/DefinitelyTyped · GitHub](https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/google.maps)
 		- google ts types ^
 	- [x] calling vf <=> lwc with type keyof
-![[Pasted image 20240529135421.png]]
+![[Pasted image 20240529135421.png]] 
 - [x] mini layout for sidebar and navigation
 - [ ] mini controller with dark/light mode toggle
 	- [ ] icons
